@@ -1,5 +1,3 @@
-
-
 cost = float(input('How much did the meal cost? '))
 
 global tip
